@@ -1,0 +1,16 @@
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Selenium.deps.json
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Selenium.runtimeconfig.json
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Selenium.runtimeconfig.dev.json
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Selenium.dll
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Selenium.pdb
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.csprojAssemblyReference.cache
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.AssemblyInfo.cs
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.csproj.CopyComplete
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.dll
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.pdb
+/Users/macbook/Desktop/Desktop/C# /Selenium/Start Selenium/Selenium/Selenium/obj/Debug/netcoreapp3.1/Selenium.genruntimeconfig.cache
